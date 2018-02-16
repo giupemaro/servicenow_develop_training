@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="fullname" label="FullName" language="en" table="x_195734_peopleman_people">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>fullname</element>
+            <help/>
+            <hint/>
+            <label>FullName</label>
+            <language>en</language>
+            <name>x_195734_peopleman_people</name>
+            <plural>FullNames</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 14:43:45</sys_created_on>
+            <sys_id>78ac408a4f9013002377cab18110c721</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>FullName</sys_name>
+            <sys_package display_value="PeopleManager" source="x_195734_peopleman">5a49c8464f9013002377cab18110c747</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PeopleManager">5a49c8464f9013002377cab18110c747</sys_scope>
+            <sys_update_name>sys_documentation_x_195734_peopleman_people_fullname_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 14:43:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
