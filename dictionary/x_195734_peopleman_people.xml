@@ -2,12 +2,15 @@
 <database>
     <element label="People" max_length="40" name="x_195734_peopleman_people" type="collection">
         <element label="Email" max_length="100" name="email" type="string"/>
-        <element label="FirstName" max_length="50" name="firstname" type="string"/>
-        <element label="FullName" max_length="100" name="fullname" type="string"/>
-        <element choice="1" display="true" label="Gender" max_length="40" name="gender" type="choice">
-            <choice/>
+        <element label="FirstName" mandatory="true" max_length="50" name="firstname" type="string"/>
+        <element label="FullName" max_length="100" name="fullname" read_only="true" type="string"/>
+        <element choice="3" default="Male" display="true" label="Gender" mandatory="true" max_length="40" name="gender" type="choice">
+            <choice>
+                <element label="M" sequence="0" value="Male"/>
+                <element label="F" sequence="1" value="Female"/>
+            </choice>
         </element>
-        <element label="LastName" max_length="50" name="lastname" type="string"/>
+        <element label="LastName" mandatory="true" max_length="50" name="lastname" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Phone" max_length="40" name="phone" type="phone_number_e164"/>
     </element>

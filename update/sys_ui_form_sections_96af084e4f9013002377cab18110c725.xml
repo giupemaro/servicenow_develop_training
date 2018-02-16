@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="96af084e4f9013002377cab18110c725" sys_domain="global" table="x_195734_peopleman_people" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 14:56:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5aaf084e4f9013002377cab18110c727</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195734_peopleman_people" name="x_195734_peopleman_people" sys_domain="global" view="Default view">96af084e4f9013002377cab18110c725</sys_ui_form>
+            <sys_ui_section caption="Main" display_value="Main" name="x_195734_peopleman_people" sys_domain="global" view="Default view">14ad0cca4f9013002377cab18110c743</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 14:56:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 14:56:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56af084e4f9013002377cab18110c728</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195734_peopleman_people" name="x_195734_peopleman_people" sys_domain="global" view="Default view">96af084e4f9013002377cab18110c725</sys_ui_form>
+            <sys_ui_section caption="Others" display_value="Others" name="x_195734_peopleman_people" sys_domain="global" view="Default view">5aaf084e4f9013002377cab18110c724</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 14:56:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_195734_peopleman_people</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 14:56:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96af084e4f9013002377cab18110c725</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_195734_peopleman_people</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PeopleManager" source="x_195734_peopleman">5a49c8464f9013002377cab18110c747</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PeopleManager">5a49c8464f9013002377cab18110c747</sys_scope>
+            <sys_update_name>sys_ui_form_sections_96af084e4f9013002377cab18110c725</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 14:56:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

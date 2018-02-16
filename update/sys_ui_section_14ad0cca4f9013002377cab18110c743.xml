@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Main" section_id="14ad0cca4f9013002377cab18110c743" sys_domain="global" table="x_195734_peopleman_people" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>firstname</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 14:56:58</sys_created_on>
+            <sys_id>96af084e4f9013002377cab18110c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Main" display_value="Main" name="x_195734_peopleman_people" sys_domain="global" view="Default view">14ad0cca4f9013002377cab18110c743</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 14:56:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lastname</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 14:56:58</sys_created_on>
+            <sys_id>1aaf084e4f9013002377cab18110c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Main" display_value="Main" name="x_195734_peopleman_people" sys_domain="global" view="Default view">14ad0cca4f9013002377cab18110c743</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 14:56:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fullname</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 14:56:58</sys_created_on>
+            <sys_id>9aaf084e4f9013002377cab18110c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Main" display_value="Main" name="x_195734_peopleman_people" sys_domain="global" view="Default view">14ad0cca4f9013002377cab18110c743</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 14:56:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 14:56:58</sys_created_on>
+            <sys_id>1eaf084e4f9013002377cab18110c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Main" display_value="Main" name="x_195734_peopleman_people" sys_domain="global" view="Default view">14ad0cca4f9013002377cab18110c743</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 14:56:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Main</caption>
+            <header>false</header>
+            <name>x_195734_peopleman_people</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>giuseppe.mariniello</sys_created_by>
+            <sys_created_on>2018-02-16 14:48:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14ad0cca4f9013002377cab18110c743</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Main</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PeopleManager" source="x_195734_peopleman">5a49c8464f9013002377cab18110c747</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PeopleManager">5a49c8464f9013002377cab18110c747</sys_scope>
+            <sys_update_name>sys_ui_section_14ad0cca4f9013002377cab18110c743</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 14:56:58</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
