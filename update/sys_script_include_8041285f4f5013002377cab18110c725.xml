@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_195734_peopleman.email_PK_test2</api_name>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>email_PK_test2</name>
+        <script><![CDATA[var email_PK_test2 = Class.create();
+email_PK_test2.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	
+	type: 'email_PK_test2',
+	isEmailAlreadyPresent: function() {
+		var emailValue = this.getParameter('sysparm_emailValue');
+		var result = false;
+		var db = new GlideRecord('x_195734_peopleman_people');
+		db.addQuery('email','=',emailValue);
+		db.query();
+		
+		if(db.next()) {
+			result = true;
+		}
+		gs.warn(result);
+		return result;
+		
+	}
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-20 13:26:33</sys_created_on>
+        <sys_id>8041285f4f5013002377cab18110c725</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>email_PK_test2</sys_name>
+        <sys_package display_value="PeopleManager" source="x_195734_peopleman">5a49c8464f9013002377cab18110c747</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="PeopleManager">5a49c8464f9013002377cab18110c747</sys_scope>
+        <sys_update_name>sys_script_include_8041285f4f5013002377cab18110c725</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-20 13:44:11</sys_updated_on>
+    </sys_script_include>
+</record_update>

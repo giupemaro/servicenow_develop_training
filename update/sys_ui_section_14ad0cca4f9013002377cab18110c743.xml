@@ -5,13 +5,13 @@
             <element>firstname</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-16 14:56:58</sys_created_on>
-            <sys_id>96af084e4f9013002377cab18110c759</sys_id>
+            <sys_created_on>2018-02-20 14:00:26</sys_created_on>
+            <sys_id>cd1928934f9013002377cab18110c7ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Main" display_value="Main" name="x_195734_peopleman_people" sys_domain="global" view="Default view">14ad0cca4f9013002377cab18110c743</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-16 14:56:58</sys_updated_on>
+            <sys_updated_on>2018-02-20 14:00:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,41 +19,27 @@
             <element>lastname</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-16 14:56:58</sys_created_on>
-            <sys_id>1aaf084e4f9013002377cab18110c759</sys_id>
+            <sys_created_on>2018-02-20 14:00:26</sys_created_on>
+            <sys_id>c51928934f9013002377cab18110c7cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Main" display_value="Main" name="x_195734_peopleman_people" sys_domain="global" view="Default view">14ad0cca4f9013002377cab18110c743</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-16 14:56:58</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>fullname</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-16 14:56:58</sys_created_on>
-            <sys_id>9aaf084e4f9013002377cab18110c759</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Main" display_value="Main" name="x_195734_peopleman_people" sys_domain="global" view="Default view">14ad0cca4f9013002377cab18110c743</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-16 14:56:58</sys_updated_on>
+            <sys_updated_on>2018-02-20 14:00:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>email</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-16 14:56:58</sys_created_on>
-            <sys_id>1eaf084e4f9013002377cab18110c759</sys_id>
+            <sys_created_on>2018-02-20 14:00:26</sys_created_on>
+            <sys_id>491928934f9013002377cab18110c7cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Main" display_value="Main" name="x_195734_peopleman_people" sys_domain="global" view="Default view">14ad0cca4f9013002377cab18110c743</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-16 14:56:58</sys_updated_on>
+            <sys_updated_on>2018-02-20 14:00:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
